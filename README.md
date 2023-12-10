@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryancoreit
-- 👀 I’m interested in develop Emppeded systems, Desktop applications, Webapplications
+- 👀 I’m interested in develop Emppeded systems, Desktop applications, Webapplications especial Back-End
 - 🌱 I’m currently learning Docker, Terraform and Ansible
 - 💞️ I’m looking to collaborate on beginner Open Source Projctes
 - 📫 How to reach me ryancore.de or on Facebook, Instragram, LikedIn
